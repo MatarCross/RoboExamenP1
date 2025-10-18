@@ -1,0 +1,7 @@
+[console_scripts]
+inverse_k = visual_pubsub.inverse_kinematics:main
+inverse_k2 = visual_pubsub.inverse_kinematics2:main
+inverse_k3 = visual_pubsub.inverse_kinematics3:main
+pub_joints = visual_pubsub.pub_joints:main
+sub_joints = visual_pubsub.sub_joints:main
+
